@@ -367,7 +367,9 @@ ul.header-menu li ul {
     border: 1px solid #928a8a96;
 }
 
-
+.service-section-2 {
+    background: #fff;
+}
 /* gift-section */
 
 .gift-section {
