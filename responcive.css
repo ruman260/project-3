@@ -1,0 +1,230 @@
+@media (min-width: 992px) and (max-width: 1500px) {}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .rpt {
+        font-size: 19px;
+    }
+    .rpt-sub {
+        padding: 10px 26px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .header-menu li a {
+        padding: 4px 20px;
+    }
+    ul.header-menu li ul {
+        top: 75px;
+        left: 192px;
+        background: transparent;
+        width: 154px;
+        height: 170px;
+    }
+    .header-menu li ul li a {
+        padding: 4px 0;
+        color: #fff;
+    }
+    /* banner section  */
+    .banner-content h1 {
+        font-size: 44px;
+    }
+    .heade-menu-slider {
+        padding: 0 0 145px 0;
+    }
+    /* welcome section  */
+    .content-1-text {
+        padding-left: 58px;
+        padding-top: 7px !important;
+    }
+    /* team section */
+    .team-section {
+        padding: 50px 0;
+    }
+    /* welcome section  */
+    .blog-type p {
+        padding-left: 68px;
+    }
+    .welcome-section {
+        padding: 50px 0;
+    }
+    /* gift section  */
+    .count h1 {
+        margin: 11px 0;
+        font-size: 32px;
+    }
+    .gift-blog-item {
+        padding: 16px;
+    }
+    /* about section  */
+    .report-box {
+        padding: 130px 0;
+    }
+    .about-section {
+        padding: 50px 0;
+    }
+    .about-box {
+        margin-bottom: 15px;
+    }
+    .rpt-sub {
+        padding: 10px 6px;
+        border-radius: 7px;
+    }
+    /* price section  */
+    .price-section {
+        padding: 50px 0;
+    }
+    .price-title span {
+        font-size: 20px;
+    }
+    .price-title h1 {
+        font-size: 35px;
+    }
+    .price-title h1 span {
+        font-size: 14px;
+    }
+    .price-list ul {
+        padding: 0 0px;
+    }
+    .price-list ul li {
+        font-size: 14px;
+    }
+    .price-list ul li span {
+        font-size: 12px;
+    }
+    /* client section  */
+    .client-section {
+        padding: 50px 0;
+    }
+    /* footer  */
+    footer {
+        padding: 30px 0;
+    }
+}
+
+@media (max-width: 767px) {
+    .header-menu li a {
+        padding: 4px 20px;
+    }
+    ul.header-menu li ul {
+        top: 75px;
+        left: 192px;
+        background: transparent;
+        width: 154px;
+        height: 170px;
+    }
+    .header-menu li ul li a {
+        padding: 4px 0;
+        color: #fff;
+    }
+    /* banner section  */
+    .heade-menu-slider {
+        padding: 0 0 100px 0;
+    }
+    .banner-content {
+        margin-top: 11px !important;
+    }
+    .banner-content h1 {
+        font-size: 31px;
+    }
+    .banner-content p {
+        font-size: 17px;
+    }
+    /* welcome section  */
+    .welcome-section {
+        padding: 50px 0;
+    }
+    .postup-content h1 {
+        margin-bottom: 17px;
+        font-size: 20px;
+    }
+    .postup-content p {
+        font-size: 14px;
+    }
+    /* welcome content  */
+    .business-section {
+        padding: 50px 0;
+    }
+    .about-section {
+        padding: 50px 0;
+    }
+    /* aboutsection  */
+    .about-box {
+        margin-bottom: 10px;
+    }
+    /* report section  */
+    .report-box {
+        padding: 60px 0;
+    }
+    .rpt {
+        margin-bottom: 10px;
+    }
+    /* price section  */
+    .price-section {
+        padding: 50px 0;
+    }
+    .price-box {
+        padding: 12px 10px;
+        margin-bottom: 25px;
+    }
+    .price-list ul {
+        margin: auto;
+        width: 400px;
+    }
+    /* client section  */
+    .client-section {
+        padding: 50px 0;
+    }
+    .client-logo-box {
+        margin-top: -32px !important;
+    }
+    form {
+        padding: 0 0 16px 0;
+    }
+    /* footer section  */
+    footer {
+        padding: 20px 0;
+    }
+    .footer-icon span {
+        padding: 0px 6px;
+        margin-bottom: 14px;
+    }
+    .ftr {
+        font-size: 15px;
+    }
+    .service-2-item a {
+        padding: 8px 19px;
+        margin: 7px 10px;
+        display: block;
+    }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .service-2-item a {
+        padding: 8px 19px;
+        margin: 7px 10px;
+        display: block;
+    }
+    .heade-menu-slider {
+        padding: 0 0 50px 0;
+    }
+    .mobile-menu {
+        right: -29px;
+    }
+    .team-section {
+        padding: 50px 0;
+    }
+    .footer-title h4 {
+        font-size: 20px;
+    }
+    .footer-icon span {
+        padding: 0px 5px;
+        margin-bottom: 12px;
+    }
+}
+
+@media (max-width:480px) {
+    ul.header-menu li ul {
+        top: 95px;
+        left: 100px;
+    }
+}
